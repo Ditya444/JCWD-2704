@@ -139,3 +139,6 @@ const kucing = new Kucing("kucing persia", 4, "oren");
 
 console.log(bebek);
 console.log(kucing);
+
+
+// testttttttt
